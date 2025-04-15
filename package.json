@@ -1,0 +1,12 @@
+{
+  "name": "defi-inclusion-app",
+  "version": "1.0.0",
+  "description": "A decentralized finance (DeFi) platform designed to improve financial inclusion in Kenya. It enables users—especially unbanked and underserved communities—to access micro-loans using blockchain technology.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

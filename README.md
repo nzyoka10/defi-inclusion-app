@@ -36,11 +36,18 @@ In many parts of East Africa, access to credit is limited due to a lack of forma
 
 ---
 
-## 🚀 Getting Started
+## 📁 Folder Structure
 
-1. Clone this repo:
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/defi-inclusion-kenya.git
-   cd defi-inclusion-kenya
-   ```
+```bash
+defi-inclusion-kenya/
+├── frontend/              # HTML, CSS, JS
+├── backend/               # Node.js APIs
+├── contracts/             # Solidity smart contracts
+├── firebase/              # Firebase config & auth
+├── README.md
+└── package.json
+```
+
+---
+
 
