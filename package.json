@@ -4,9 +4,20 @@
   "description": "A decentralized finance (DeFi) platform designed to improve financial inclusion in Kenya. It enables users—especially unbanked and underserved communities—to access micro-loans using blockchain technology.",
   "main": "index.js",
   "scripts": {
+    "start": "node backend/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "keywords": [
+    "blockchain",
+    "DeFi",
+    "micro-loans",
+    "Kenya",
+    "financial-inclusion",
+    "ethereum"
+  ],
+  "author": "Eric Nzyoka",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
